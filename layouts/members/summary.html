@@ -5,11 +5,11 @@
     </figure>
   {{ end }}
   <section class="member-summary-details col-sm-10">
-    <h2 class="member-summary-header"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <h2 class="member-summary-header"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     {{ if .Description }}
       <p>
         {{ .Description }}
-        <a href="{{ .Permalink }}">View {{ .Title }}'s Profile</a>
+        <a href="{{ .RelPermalink }}">View {{ .Title }}'s Profile</a>
       </p>
     {{ end }}
   </section>
