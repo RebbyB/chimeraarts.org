@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memberships on Chimera Arts and Maker Space</title>
-    <link>http://localhost:1313/membership/</link>
+    <link>http://www.chimeraarts.org/membership/</link>
     <description>Recent content in Memberships on Chimera Arts and Maker Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://localhost:1313/membership/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.chimeraarts.org/membership/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Become a Member</title>
-      <link>http://localhost:1313/membership/</link>
+      <link>http://www.chimeraarts.org/membership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/membership/</guid>
+      <guid>http://www.chimeraarts.org/membership/</guid>
       <description>
 
 &lt;p&gt;Chimera is now open to membership! &lt;strong&gt;Before applying for membership, please read the following&lt;/strong&gt; pages/sections:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/status/&#34;&gt;Our current status&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/space/&#34;&gt;Our space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chimeraarts.org/about/status/&#34;&gt;Our current status&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chimeraarts.org/about/space/&#34;&gt;Our space&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1HLFmj0rFuK1uI5WViTvqVvMNKwryNCidUBK0wHjH_g8/edit?usp=sharing&#34;&gt;Our membership agreement&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -49,13 +49,13 @@
 
 &lt;p class=&#34;text-center&#34;&gt;&lt;a href=&#34;https://chimera.memberful.com/orders/new?plan=1912&#34; class=&#34;btn btn-primary btn-lg&#34;&gt;Become a member now!&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;If you haven&amp;rsquo;t seen our space yet but are interested in being one of our first members, &lt;a href=&#34;http://localhost:1313/calendar/&#34;&gt;come to a meetup&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact us&lt;/a&gt; to setup a tour.&lt;/p&gt;
+&lt;p&gt;If you haven&amp;rsquo;t seen our space yet but are interested in being one of our first members, &lt;a href=&#34;http://www.chimeraarts.org/calendar/&#34;&gt;come to a meetup&lt;/a&gt; or &lt;a href=&#34;http://www.chimeraarts.org/contact/&#34;&gt;contact us&lt;/a&gt; to setup a tour.&lt;/p&gt;
 
 &lt;h2 id=&#34;membership-faq:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Membership FAQ&lt;/h2&gt;
 
 &lt;h3 id=&#34;what-equipment-do-you-have:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;What Equipment Do You Have?&lt;/h3&gt;
 
-&lt;p&gt;Check out our &lt;a href=&#34;http://localhost:1313/about/equipment/&#34;&gt;Equipment page&lt;/a&gt; for an updated list of our equipment.&lt;/p&gt;
+&lt;p&gt;Check out our &lt;a href=&#34;http://www.chimeraarts.org/about/equipment/&#34;&gt;Equipment page&lt;/a&gt; for an updated list of our equipment.&lt;/p&gt;
 
 &lt;h3 id=&#34;what-volunteer-commitment-are-you-looking-for:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;What Volunteer Commitment Are You Looking For?&lt;/h3&gt;
 
@@ -87,10 +87,10 @@
     
     <item>
       <title>Membership Agreement</title>
-      <link>http://localhost:1313/membership/agreement/</link>
+      <link>http://www.chimeraarts.org/membership/agreement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/membership/agreement/</guid>
+      <guid>http://www.chimeraarts.org/membership/agreement/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re interested in becoming a member, please read &lt;a href=&#34;https://docs.google.com/document/d/1HLFmj0rFuK1uI5WViTvqVvMNKwryNCidUBK0wHjH_g8/edit?usp=sharing&#34;&gt;our membership agreement&lt;/a&gt; all the way through and make sure that you can abide by it as a member.&lt;/p&gt;
 </description>
     </item>
