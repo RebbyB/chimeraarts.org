@@ -4,19 +4,13 @@ title: "Chimera's Space"
 
 {{% image /static/img/photos/portable-pano.jpg "Planning session at the mini-makerspace." %}}
 
-## Current Space
+## The Warehouse
 
-Chimera is currently renting a small portable office building that is our space for regular meetups, classes, events, and as of December 2013, membership!
-
-This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn't require a lot of space to work.
+In April of 2016, Chimera successfully moved into our newly retro-fitted 3,000 suare foot warehouse space at the back of the old Ford building on Hwy 12 in Sebastopol. The beautifully designed and well-lit space has plenty of room for co-working, as well as a kitchen, a comfortable lounge/library/meeting area, a fully outfitted jewelry studio, an electronics lab, 3D printers, a small crafts and textiles area, a 4,000 square foot outside space for welding and other large projects, lockers, a machine shop area with CNC machines and a small laser cutter, and coming soon, a brand new 3' x 4' 100 watt laser cutter!
 
 **Curious about what equipment and tools we have?** Check out our [list of equipment](/about/equipment/).
 
 *If this sounds interesting to you, learn more about [membership](/membership/).*
 
 
-## Future Space
-
-We're in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art. 
-
-If you're interested in getting involved in our planning process, check out our [Google Group](https://groups.google.com/forum/#!forum/chimera-art-space) and [signup to our newsletter](http://eepurl.com/zRv7D).
+ 
